@@ -1,0 +1,8 @@
+name: GodMode
+version: '1.0'
+main: sleaky.godMode.GodMode
+api-version: '1.21'
+commands:
+  god:
+    description: Gives the player specified immortality
+    usage: /god <player>
